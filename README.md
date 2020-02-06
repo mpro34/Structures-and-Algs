@@ -1,8 +1,18 @@
 # Structures-and-Algs
 
-### Data Structures to demonstrate:
-- Vector
-- Linked List (Singly and Doubly)
-- Stack
-- Queue
+### Implementations:
+
+### Searching:
+#### Depth First Search
+
+#### Breadth First Search
+
+#### Binary Search
+
+### Data Structures
+#### Implement a Binary Search Tree
+
+#### Implement a Singly Linked List
+
+#### Implement an Undirected Graph
 
